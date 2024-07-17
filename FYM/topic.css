@@ -1,0 +1,24 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: hotpink;
+    margin: 5;
+    padding: 2.5;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    background-color: palevioletred;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+    color:darkred;
+    text-align: center;
+}
+p {
+    color:black;
+    line-height: 1.6;
+}

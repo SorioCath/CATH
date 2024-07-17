@@ -1,0 +1,33 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 5;
+    padding: 5;
+    line-height: 1.6;
+}
+
+header{
+    background: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+header nav ul li{
+    display: inline;
+    margin: 0 10px;
+}
+
+section {
+    padding: 2rem;
+    border-bottom: 1px solid #ddd;
+}
+
+footer{
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
